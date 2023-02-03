@@ -42,6 +42,7 @@ jsdoc (Javascript)
 Slate and Swagger are among the most popular tools for API documentation.
 vs code editor extension.
 vs clone.
+ms docs.
 
 Conclusion
 Some teams may prefer to skip code documentation in order to save time, money and effort. Keep in mind though that this might result in even more significant expenses once the product is transferred to another team or when updates are required down the line.
