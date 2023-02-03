@@ -1,0 +1,47 @@
+When working with a remote development team, one of the risks you expose your business to is receiving the source code which is impossible to read or work with.
+
+Thus, you need to make sure that the code is readable, can be easily understood and maintained by your in-house staff or another team, that is if you decide to change a provider. Creating proper code documentation is one of the ways to do that.
+
+While many developers argue against code documentation, reasoning that a well-written program is self-explanatory and should be clear for anyone proficient with the given tech stack. In reality, however, this is not always the case. There are many reasons to maintain proper code documentation.
+
+Why do you need code documentation?
+Despite a common misbelief, code documentation is used to describe not “WHAT the code does?”, but “HOW it does it?” Its main purpose is to increase the product’s maintainability, regardless of who might be working with the code.
+
+There are several reasons why code documentation is crucial for any project.
+
+It is good for knowledge transfer. Not all code is equally obvious. There might be some complex algorithms or custom workarounds that are not clear enough for other developers.
+It helps to troubleshoot production issues. If there are any problems with the product after it’s released, having proper documentation can speed up the resolution time. Finding out product details and architecture specifics is a time-consuming task, which results in the waste of your money.
+It may help you better manage any additional integrations and product add-ons. Product documentation describes dependencies between system modules and third-party tools. Thus, it may be needed for integration purposes.
+All in all, having your application properly documented will make the development and maintenance efforts more efficient and will save you time and money in the long run.
+
+Read also: How To Reduce App Development Cost
+
+ 
+
+At Eastern Peak we always pay special attention to source code documentation. If it is done properly and it is understandable, your in-house developers, as well as other teams you decide to hire won’t have any problems working with it.
+
+Remember, that poor code documentation or its complete lack thereof, is one of the signs that your vendor might be dishonest. They might use this down the road to leverage their position over you and prevent you from switching providers. If the code is properly documented, your current development team can be easily replaced. If it is not, you are trapped.
+
+Here is an example of a properly documented API that we have created for one of our clients, Cloudify.
+
+What does good documentation consist of?
+Having no documents at all is as bad as having excessive or inappropriate documentation. Here are some basic rules for creating useful and, most importantly, usable code documentation.
+
+Keep it simple and concise. Follow the DRY (Don’t Repeat Yourself) principle. You don’t need to comment on every single line of your code, use comments to explain something that really needs explaining and is not self-evident.
+Keep it up to date at all times. It’s best to document the code step by step, as it is written, instead of writing down the comments for the code that was written months ago. In doing so, you will save time and make the documentation precise and complete. Use proper versioning to keep track of all changes in the document.
+Document any changes to your code. Documenting new features or add-ons is pretty obvious. However, you should also document deprecated features, capturing any change in the product.
+Use simple language and proper formatting. Code documents are typically written in English so that any developer could read the comments, regardless of their native language. The best practices for documentation writing require using the Imperative mood, Present tenses, preferably active voice, and second person. Use consistent header, footer, headings, and font sizes for better readability.
+Combine automated documentation tools and human input. Automation will speed up the process, but a person can make the code documentation comprehensible while adding more of a personal touch.
+As for the latter, there are plenty of tools that will do the hard work for you (documenting the code). Such tools are typically language-specific:
+
+Doxygen (C, C++, C#, Java, Objective-C, PHP, Python)
+GhostDoc (C#, Visual Basic, C++, JavaScript)
+Javadoc (Java only)
+Docurium or YARD (Ruby)
+jsdoc (Javascript)
+Slate and Swagger are among the most popular tools for API documentation.
+
+Conclusion
+Some teams may prefer to skip code documentation in order to save time, money and effort. Keep in mind though that this might result in even more significant expenses once the product is transferred to another team or when updates are required down the line.
+
+We at Eastern Peak always document the source code we create for our clients, following the best practices described above. Using the dedicated team approach, we can efficiently and effectively cooperate with your in-house team or transfer the deliverables as soon as development is completed.
